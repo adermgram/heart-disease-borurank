@@ -29,8 +29,7 @@ Post-hoc interpretability is provided via **LIME** (local explanations) and **SH
 
 ```
 .
-├── Final_project_maxwell.ipynb   # Full experiment notebook
-├── arxiv_paper.tex               # LaTeX source of the paper
+├── heart_disease_borurank.ipynb   # Full experiment notebook
 ├── arxiv_paper.pdf               # Compiled paper
 └── README.md
 ```
